@@ -1,0 +1,66 @@
+body {
+  background-image: linear-gradient(rgb(252, 156, 112), rgb(250, 178, 145), rgb(252, 219, 206));
+   
+}
+
+video {
+    width: 400px;
+
+    position: absolute;
+    top: 80px;
+    right: 30px;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    border: 1px solid;
+    width: 65%;
+    padding: 7px;
+    background-color: blanchedalmond;
+    border-radius: 4px;
+    margin-left: 13px;
+}
+
+audio {
+
+    margin-left: 100px;
+}
+
+div {
+    width: 97%;
+    border: 1px solid;
+    margin-top: 12px;
+    margin-left: 13px;
+    margin-right: 13px;
+    padding: 7px;
+    background-color: blanchedalmond;
+    border-radius: 4px;
+}
+
+
+
+span {
+    float: right;
+    margin-right: 13px;
+    height: 380px;
+}
+
+.sport {
+    margin-top: 30px;
+    margin-right: 15px;
+    width: 97%;
+    
+}
+h1{
+    color: rgba(110, 29, 0, 0.884);
+}
+p, div{
+    color:  rgba(95, 43, 25, 0.986);
+}
+iframe{
+    height: 380px;
+    margin-left: 20px;
+}
